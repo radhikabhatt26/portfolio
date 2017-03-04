@@ -1,0 +1,19 @@
+.portfolio-modal .modal-content {
+    border-radius: 0;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+    min-height: 100%;
+    padding: 100px 0;
+    text-align: left;
+}
+
+.persona-images {
+	display: inline;
+}
+
+.portfolio-images {
+	background-color: #F2F2F2;
+    padding: 15px 15px 15px 15px;
+}
