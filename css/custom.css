@@ -77,3 +77,9 @@ header .intro-text .intro-heading {
     margin-bottom: 50px;
   }
 }
+
+.figcaption{
+    font-size: 14px;
+    color:#777777;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
