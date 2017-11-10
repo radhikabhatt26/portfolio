@@ -14,13 +14,13 @@ a.active {
   outline: none;
 }
 a {
-  color: #092F96;
+  color: #2b6df2;
 }
 a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #092F96;
+  color: #1d51ba;
   }
 
 header {
@@ -47,6 +47,7 @@ header .intro-text .intro-lead-in {
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
+    text-shadow: 2px 2px 3px grey;
 }
 header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -55,6 +56,7 @@ header .intro-text .intro-heading {
   font-size: 50px;
   line-height: 50px;
   margin-bottom: 25px;
+    text-shadow: 2px 2px 3px grey;
 }
 @media (min-width: 768px) {
   header .intro-text {
@@ -77,3 +79,23 @@ header .intro-text .intro-heading {
     margin-bottom: 50px;
   }
 }
+
+.figcaption{
+    font-size: 14px;
+    color:#777777;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.extra-padding-div {
+    margin-bottom: 70px;
+}
+
+
+/* Resume section 
+.timeline > li .timeline-panel {
+    padding: 0 20px 20px 20px;
+}
+
+.timeline > li.timeline-inverted > .timeline-panel {
+    padding: 0 20px 20px 20px;
+}*/
