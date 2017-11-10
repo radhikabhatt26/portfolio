@@ -14,13 +14,13 @@ a.active {
   outline: none;
 }
 a {
-  color: #092F96;
+  color: #2b6df2;
 }
 a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #092F96;
+  color: #1d51ba;
   }
 
 header {
