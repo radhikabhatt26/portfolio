@@ -83,3 +83,7 @@ header .intro-text .intro-heading {
     color:#777777;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.extra-padding-div {
+    margin-bottom: 70px;
+}
